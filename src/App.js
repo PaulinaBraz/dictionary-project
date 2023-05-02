@@ -9,7 +9,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer></footer>
+        <footer> Coded by Paulina Prassol Braz </footer>
       </div>
     </div>
   );
