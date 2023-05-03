@@ -4,8 +4,16 @@
 body {
   background-color: rgb(243, 200, 243);
 }
-.App button {
-  margin: 0 auto;
-  display: block;
+
+a {
+  color: blueviolet;
+}
+
+.App-header {
+  margin: 25px 0;
+}
+
+.App footer {
   text-align: center;
+  margin: 25px 0;
 }
