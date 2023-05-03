@@ -1,6 +1,7 @@
 .App {
-  text-align: center;
   margin-top: 100px;
+  text-align: center;
+  text-decoration: none;
 }
 body {
   background-color: rgb(230, 198, 230);
