@@ -9,7 +9,24 @@ function App() {
         <main>
           <Dictionary defaultKeyword="Paris" />
         </main>
-        <footer> Coded by Paulina Prassol Braz </footer>
+        <footer>
+          This project was coded by Paulina Prassol Braz and is{" "}
+          <a
+            href="https://github.com/PaulinaBraz/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://dictionary-app-paulina-braz.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
+        </footer>
       </div>
     </div>
   );
