@@ -1,5 +1,6 @@
 .App {
-  margin-top: 100px;
+  margin-top: 0 auto;
+  max-width: 960px;
 }
 body {
   background-color: rgb(243, 200, 243);
@@ -16,4 +17,5 @@ a {
 .App footer {
   text-align: center;
   margin: 25px 0;
+  font-size: 13px;
 }
