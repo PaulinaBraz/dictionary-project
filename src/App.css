@@ -4,11 +4,11 @@
   margin: 0 auto;
 }
 body {
-  background-color: rgb(243, 200, 243);
+  background-color: #ffe9e3;
 }
 
 a {
-  color: rgb(137, 108, 165);
+  color: #7c73e6;
 }
 
 .App-header {
